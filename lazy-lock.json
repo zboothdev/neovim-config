@@ -11,6 +11,8 @@
   "mason.nvim": { "branch": "main", "commit": "cd7835b15f5a4204fc37e0aa739347472121a54c" },
   "mini.bufremove": { "branch": "main", "commit": "75be0b153b0cd2499c031e57d44cde8dad4766e4" },
   "nightfox.nvim": { "branch": "main", "commit": "fe2fc7b93d66349eff2c5baa6cec922ee3958f56" },
+  "nvim-treesitter": { "branch": "master", "commit": "168972a0d53170767e49d44f678ca721a2472560" },
+  "nvim-treesitter-textobjects": { "branch": "master", "commit": "76c7a89b41de77a4f83fb77fa072c5ad7605fe3b" },
   "nvim-web-devicons": { "branch": "master", "commit": "a1e6268779411048a87f767a27380089362a0ce2" },
   "onedark.nvim": { "branch": "master", "commit": "826fb77e9ca92d3c0f3d937328663d4a6dc7fee1" },
   "persistence.nvim": { "branch": "main", "commit": "9730a073fd8270e91729d666bcef6a5abc007f02" },
