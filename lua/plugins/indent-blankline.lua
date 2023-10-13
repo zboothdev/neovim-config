@@ -1,27 +1,29 @@
 return {
   -- Show indentation guides.
-  -- { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} }
   {
     "lukas-reineke/indent-blankline.nvim",
-    main = "ibl",
     event = { "BufReadPost", "BufNewFile" },
+    main = "ibl",
     opts = {
-      -- char = "▏",
-      char = "│",
-      filetype_exclude = {
-        "help",
-        "alpha",
-        "dashboard",
-        "neo-tree",
-        "Trouble",
-        "lazy",
-        "mason",
-        "notify",
-        "toggleterm",
-        "lazyterm",
+      indent = {
+        char = "│",
+        tab_char = "│",
       },
-      show_trailing_blankline_indent = false,
-      show_current_context = false,
+      scope = { enabled = false },
+      exclude = {
+        filetypes = {
+          "help",
+          "alpha",
+          "dashboard",
+          "neo-tree",
+          "Trouble",
+          "lazy",
+          "mason",
+          "notify",
+          "toggleterm",
+          "lazyterm",
+        },
+      },
     },
   },
 }
