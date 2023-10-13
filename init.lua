@@ -11,4 +11,4 @@ require("config.keymaps")
 require("config.options")
 require("config.autocmds")
 
-pcall(vim.cmd.colorscheme, "onedark")
+pcall(vim.cmd.colorscheme, "catppuccin-macchiato")
