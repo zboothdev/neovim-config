@@ -17,6 +17,9 @@ mv ~/.config/nvim{,.bak}
 ```
 - Clone this repo
 
+# Plugins
+[Plugin List](plugin_list.md)
+
 # References
 
 The initial configuration referenced examples from:
