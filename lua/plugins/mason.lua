@@ -10,7 +10,8 @@ return {
         "stylua",
         "shfmt",
         "codespell",
-        -- "flake8",
+        "ruff",
+        "fixjson",
       },
     },
     ---@param opts MasonSettings | {ensure_installed: string[]}
