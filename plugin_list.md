@@ -13,6 +13,7 @@ This plugin list was generated from lazy.nvim's plugin list. It can be regenerat
 - [ jlanzarotta/bufexplorer ]( https://github.com/jlanzarotta/bufexplorer.git )
 - [ lewis6991/gitsigns.nvim ]( https://github.com/lewis6991/gitsigns.nvim.git )
 - [ lukas-reineke/indent-blankline.nvim ]( https://github.com/lukas-reineke/indent-blankline.nvim.git )
+- [ mfussenegger/nvim-lint ]( https://github.com/mfussenegger/nvim-lint.git )
 - [ navarasu/onedark.nvim ]( https://github.com/navarasu/onedark.nvim.git )
 - [ numToStr/Comment.nvim ]( https://github.com/numToStr/Comment.nvim.git )
 - [ nvim-lua/plenary.nvim ]( https://github.com/nvim-lua/plenary.nvim.git )

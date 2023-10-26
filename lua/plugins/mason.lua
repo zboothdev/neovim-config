@@ -12,6 +12,11 @@ return {
         "codespell",
         "ruff",
         "fixjson",
+        "jsonlint",
+        "markdownlint",
+        "vale",
+        "shellcheck",
+        "yamllint",
       },
     },
     ---@param opts MasonSettings | {ensure_installed: string[]}
