@@ -1,5 +1,6 @@
 # Plugin List
 This plugin list was generated from lazy.nvim's plugin list. It can be regenerated using the command  `nvim --headless -c ":lua PRINT_PLUGIN_LIST()" -c 'q' 2> plugin_list.md`
+
 - [ EdenEast/nightfox.nvim ]( https://github.com/EdenEast/nightfox.nvim.git )
 - [ akinsho/bufferline.nvim ]( https://github.com/akinsho/bufferline.nvim.git )
 - [ akinsho/toggleterm.nvim ]( https://github.com/akinsho/toggleterm.nvim.git )
@@ -10,6 +11,7 @@ This plugin list was generated from lazy.nvim's plugin list. It can be regenerat
 - [ folke/persistence.nvim ]( https://github.com/folke/persistence.nvim.git )
 - [ folke/tokyonight.nvim ]( https://github.com/folke/tokyonight.nvim.git )
 - [ folke/which-key.nvim ]( https://github.com/folke/which-key.nvim.git )
+- [ ibhagwan/fzf-lua ]( https://github.com/ibhagwan/fzf-lua.git )
 - [ jlanzarotta/bufexplorer ]( https://github.com/jlanzarotta/bufexplorer.git )
 - [ lewis6991/gitsigns.nvim ]( https://github.com/lewis6991/gitsigns.nvim.git )
 - [ lukas-reineke/indent-blankline.nvim ]( https://github.com/lukas-reineke/indent-blankline.nvim.git )
@@ -26,3 +28,4 @@ This plugin list was generated from lazy.nvim's plugin list. It can be regenerat
 - [ stevearc/conform.nvim ]( https://github.com/stevearc/conform.nvim.git )
 - [ tpope/vim-fugitive ]( https://github.com/tpope/vim-fugitive.git )
 - [ williamboman/mason.nvim ]( https://github.com/williamboman/mason.nvim.git )
+
