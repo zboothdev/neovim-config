@@ -3,11 +3,13 @@ return {
   event = { "BufReadPre", "BufNewFile" },
   opts = {
     -- Event to trigger linters
-    events = { "BufWritePost", "BufReadPost", "InsertLeave" },
+    -- events = { "BufWritePost", "BufReadPost", "InsertLeave" },
+    events = { "BufWritePost", "BufReadPost" },
     linters_by_ft = {
       python = { "ruff" },
       json = { "jsonlint" },
       markdown = { "markdownlint", "vale" },
+      rst = { "vale" },
       sh = { "shellcheck" },
       yaml = { "yamllint" },
       -- Use the "*" filetype to run linters on all filetypes.
